@@ -1,0 +1,1 @@
+from src.auth.email.schemas import MailBodySchema, EmailSchema, MailTaskSchema
